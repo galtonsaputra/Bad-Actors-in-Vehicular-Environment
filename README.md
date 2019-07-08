@@ -1,9 +1,9 @@
-# Bad-Actors-in-Vehicular-Environment-
-A look into FMVSS NO. 150 proposed vehicular communication for road safety-application and BSM content verification
+# Bad Actors in Vehicular Environment
+A look into FMVSS NO. 150 proposed vehicular communication for road safety-application and BSM content verification.
 
 #### Usage
 This repo serves as a pointer and reference point for the 2 repos within: RSUServer and CarController. </br>
-At this repo, it does not contain any code but contains the thesis which serves as the research and aim to the development of RSUServer and CarControl solution.
+Here contains the research publication, guide and developmental objectives for RSUServer and CarControl.
 
 ##### RC Car broadcasting J2735 messages using 802.11ac
 <img src="Images/car_1.jpg"
